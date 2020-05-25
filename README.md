@@ -1,4 +1,4 @@
-# Audio filtering visualization tool
+# Audio DSP Visualization Tool
 
 Design Goals
 * Load audio files from disk
